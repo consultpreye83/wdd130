@@ -3,7 +3,7 @@ nav {
     padding: 10px;
  }
  
- nav a {
+nav a {
     color: white;
     display: block;
     padding: 20px;
@@ -12,15 +12,47 @@ nav {
  h1 {
    color: darkblue;
  }
- 
- img {
+
+img {
     width: 150px;
     height: auto;
     border: 1px solid black;
     padding: 2px;
     box-shadow: 0 0 30px gray;
  }
+
+ main img {
+   width: 150px;
+   height: auto;
+ }
  
  p {
-    padding: 10px;
+    padding: 0px;
  }
+
+ main {
+   max-width: 840px;
+ }
+
+aside {
+   width: 200px;
+   margin: 1rem;
+   border: 1px solid rgb(0 0 0 / 0.2);
+   padding: 1rem;
+   background-color: #eee;
+   text-align: center;
+   color: #333;
+}
+
+aside img{
+   width: 200px;
+   height: auto;
+}
+
+footer {
+   margin-top: 15px;
+   border-top: 1px solid #000;
+   text-align: center;
+}
+   
+   
