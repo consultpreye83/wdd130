@@ -61,6 +61,12 @@ article {
     color: #000;
 }
 
+h1,
+h2 {
+    font-family: var(--heading-font);
+    color: var(--primary-color);
+}
+
 h1 {
     position: absolute;
     top: 20px;
@@ -116,11 +122,6 @@ nav a:hover {
 
 .history-item {
     text-align: left;
-}
-
-.history-img {
-    width: 100%;
-    max-width: 200px;
 }
 
 .history h2 {
