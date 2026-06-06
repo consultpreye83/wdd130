@@ -78,7 +78,7 @@ h1 {
 h2 {
     padding: 5px;
     text-align: center;
-    background-color: #ccc;
+    background-color: var(--heading-font);
     margin-top: 30px;
 }
 
