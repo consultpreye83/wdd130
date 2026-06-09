@@ -312,14 +312,9 @@ td {
     text-align: center;
 }
 
+tbody tr,
 thead tr,
 tfoot tr {
-    background-color: rgb(0 0 0);
-    color: white;
-    font-weight: 700;
-}
-
-tbody tr {
     background-color: rgb(100 100 100);
     color: white;
     font-weight: 700;
@@ -457,28 +452,6 @@ tbody tr {
     text-align: center;
 }
 
-.hero-content {
-    background: rgba(0, 0, 0, 0.6);
-    color: white;
-    padding: 30px;
-    border-radius: 10px;
-}
-
-.hero-btn {
-    display: inline-block;
-    margin-top: 15px;
-    padding: 12px 25px;
-    background: #f4a261;
-    color: black;
-    text-decoration: none;
-    border-radius: 5px;
-    font-weight: bold;
-}
-
-.hero-btn:hover {
-    background: #e76f51;
-    color: white;
-}
 
 .trips-container {
     display: grid;
