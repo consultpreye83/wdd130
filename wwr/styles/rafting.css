@@ -605,7 +605,7 @@ body {
     box-shadow: 0 0 30px gray;
 }
 
-article {
+.hero article {
     position: absolute;
     bottom: 20px;
     width: 100%;
