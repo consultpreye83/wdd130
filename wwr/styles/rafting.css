@@ -675,7 +675,7 @@ nav a:hover {
 }
 
 .adventures {
-    background-color: #ccc;
+    background-color: var(--heading-font);
 }
 
 .adventures h2 {
@@ -697,7 +697,7 @@ nav a:hover {
 .adventures-img img {
     width: 100%;
     height: auto;
-    background-color: #ddd;
+    background-color: var(--secondary-color);
 }
 
 .adventures-img p {
@@ -712,7 +712,7 @@ nav a:hover {
 
 .company-info h1 {
     margin-top: 120px;
-    background-color: #fff;
+    background-color: var(--primary-color);
     padding: 2px;
 }
 
@@ -775,7 +775,7 @@ textarea {
 button {
     padding: 10px;
     border: none;
-    background: #ccc;
+    background: var(--primary-color);
     cursor: pointer;
 }
 
@@ -800,7 +800,7 @@ button {
 .employee-gallery img {
     width: 20%;
     height: auto;
-    background: #ddd;
+    background: var(--accent2-color);
 }
 
 .employee-gallery p {
