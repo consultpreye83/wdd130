@@ -707,12 +707,12 @@ nav a:hover {
 
 .company-info {
     text-align: center;
-    margin: 20px 0;
+    margin: 70px 0;
 }
 
 .company-info h1 {
-    margin-top: 120px;
-    background-color: var(--primary-color);
+    margin-top: 180px;
+    background-color: var(--secondary-color);
     padding: 2px;
 }
 
